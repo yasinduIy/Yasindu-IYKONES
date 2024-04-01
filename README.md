@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yasindu Weerakkody</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 
+
 - 🌱 I’m currently undergraduate **BICT(Hons)**
 
 - 📝 I regularly write articles on [https://medium.com/@yasiweera1234](https://medium.com/@yasiweera1234)
 
 - 💬 Ask me about **Vuejs, Laravel, PHP, SQL, HTML, CSS, Boostrap, Javascript**
 
-- 📫 How to reach me **yasiweera1234@gmail.com**
+- 📫 How to reach me **yasindu@iykones.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
